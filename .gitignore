@@ -1,0 +1,19 @@
+# Quartus compilation caches
+db/
+incremental_db/
+
+# Quartus compile output
+output_files/
+
+# Simulation working directories
+simulation/
+
+# Backup files
+*.bak
+*.bak[0-9]*
+
+# Misc regenerated reports/logs/settings
+*.rpt
+*.summary
+*.smsg
+*.qws
